@@ -2,7 +2,7 @@
 
 # Compiler settings
 CXX = clang++
-CC = clang++
+CC = clang
 CXXFLAGS = -Wall -g
 LDFLAGS =
 
